@@ -15,6 +15,8 @@ public class AjaxWindowsFrames {
 		
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		
+		System.out.println("Practise1");
+		System.out.println("Practise2");
 		
 	}
 
