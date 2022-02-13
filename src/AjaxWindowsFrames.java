@@ -18,6 +18,8 @@ public class AjaxWindowsFrames {
 		System.out.println("Practise1");
 		System.out.println("Practise2");
 		
+		System.out.println("Practise3");
+		
 	}
 
 }
